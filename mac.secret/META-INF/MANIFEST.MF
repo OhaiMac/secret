@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Secret
+Bundle-SymbolicName: mac.secret
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: MAC
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: com.mac.linkedlist
+Require-Bundle: org.junit
